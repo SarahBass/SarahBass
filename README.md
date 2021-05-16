@@ -13,10 +13,15 @@ Ascii art.
 -💻 I can program moderately well in C++, C, Java, 
 and python. I have not taken Data Structures yet, but 
 I will be taking it after this semester.C++ and C are
-my strengths, and I'm rusty on python. 
+my strengths, and I'm rusty on python.
 
 -🎓Currently enrolled in undergraduate classes
- for computer science.
+ for computer science. Graduated CSUF with a B.A.
+in English, have education and/or certificates
+in childhood development, education, and speech 
+and language pathology. Worked with children with
+disabilities for years, but now want to pursue 
+creating educational games and applications. 
 
 -👑 My 2021 goals are to do daily leetcode and
 Euler learning tasks, create apps using Android app
