@@ -25,7 +25,7 @@ creating educational games and applications.
 
 -👑 My 2021 goals are to do daily leetcode and
 Euler learning tasks, create apps using Android app
-development with Java, create a text art game for 
+developer (with Java), create a text art game for 
 Linux using c++, create games for my raspberry pi,
 get involved in an open source project on Github, 
 and continue my education as a post-Bach student
