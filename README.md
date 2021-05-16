@@ -8,7 +8,8 @@
 -🎨I have art skills using procreate, photoshop, 
 vectornator, Adobe illustrator, and use various
 Animation programs too. I also animate with
-Ascii art. 
+Ascii art. I am self taught, but have taken 
+life drawing classes for years at local studios.
 
 -💻 I can program moderately well in C++, C, Java, 
 and python. I have not taken Data Structures yet, but 
@@ -17,11 +18,14 @@ my strengths, and I'm rusty on python.
 
 -🎓Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
-in English, have education and/or certificates
-in childhood development, education, and speech 
-and language pathology. Worked with children with
-disabilities for years, but now want to pursue 
-creating educational games and applications. 
+in English, have certificates in special education,
+multiple subjects, and single subject: English. I have 
+an A.A. in early childhood development, and took many
+classes on speech and language pathology at CSUF.
+I Worked with children with disabilities professionally 
+for years in school districts, but now want to pursue 
+creating educational games and applications as a career. 
+
 
 -👑 My 2021 goals are to do daily leetcode and
 Euler learning tasks, create apps using Android app
