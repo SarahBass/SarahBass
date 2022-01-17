@@ -12,9 +12,9 @@ Ascii art. I am self taught, but have taken
 life drawing classes for years at local studios.
 
 -💻 I can program moderately well in C++, C, Java, 
-and python. I have not taken Data Structures yet, but 
-I will be taking it after this semester.C++ and C are
-my strengths, and I'm rusty on python.
+and python. Currently learning how to program 
+CSS/Javascript for Unity, Fitbit App, and 
+Android App. 
 
 -🎓Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
