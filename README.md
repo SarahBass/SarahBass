@@ -8,7 +8,7 @@
 
 -🎨I have art skills using Procreate, Photoshop, 
 Vectornator, Adobe illustrator, and use various
-Animation programs like Blender too.
+Animation or 3D programs like Blender.
 
 -💻 I can program fluently in C++, C, Javascript, 
 and python. Currently learning how to program 
