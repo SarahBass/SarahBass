@@ -3,7 +3,6 @@
 - 👀 I’m interested in game development and apps.
 - ☕ I’m currently learning Java, Kotlin, Assembly 
     Language, and Discrete Mathematics
-- 🙊 I’m looking to collaborate on fun projects.
 - 📫 How to reach me: sarahrenebass@gmail.com. 
 
 -🎨I have art skills using Procreate, Photoshop, 
@@ -25,7 +24,7 @@ for years in school districts, but now want to pursue
 creating educational games and applications as a career. 
 
 
--👑 My 2022 gol is to continue my education as a post-Bach student
+-👑 My 2022 goal is to continue my education as a post-Bach student
 at college to Earn my A.A. in Computer Science by May 2022, and
 earn my Bachelors Degree in Computer Science in May 2023 from CSUF.
 
