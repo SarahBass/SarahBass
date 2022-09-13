@@ -7,28 +7,20 @@
 - 👀 I’m interested in game development and apps. 
 - 📫 How to reach me: VirtualStarWatch@gmail.com
 
--🎨I have art skills using Procreate, Photoshop, 
+🎨 I have art skills using Procreate, Photoshop, 
 Vectornator, Adobe illustrator, and use various
 Animation or 3D programs like Blender.
 
--💻 I can program fluently in Kotlin, Java, C++, C,
+💻 I can program fluently in Kotlin, Java, C++, C,
 Javascript, some assembly languages, and python. 
 
--🎓Currently enrolled in undergraduate classes
+🎓 Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
 in English, have certificates in special education,
-multiple subjects, and single subject: English. I have 
-an A.A. in early childhood development, and took many
-classes on speech and language pathology at CSUF.
-I Worked with children with disabilities professionally 
-for years in school districts, but now am pursing 
-educational games and Android applications as a career. 
+multiple subjects, and single subject: English. Now
+pursuing B.A. in Computer Science. 
 
-[Coming Soon to Android Google Play](https://play.google.com/store/apps/dev?id=8905289373249083173)
-
-## ABC Fish
-
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Fish.png" width="300" height="300">
+# Upcomping Games
 
 ## ABC Halloween
 
@@ -51,7 +43,7 @@ educational games and Android applications as a career.
 <img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="300" height="300">" 
 
 
--👑 Check out our games, watches, and applications:
+# Follow us at:
 
 [Fitbit Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 
