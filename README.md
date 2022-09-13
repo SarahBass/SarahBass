@@ -7,6 +7,7 @@
 - 👀 I’m interested in game development and apps. 
 - 📫 How to reach me: VirtualStarWatch@gmail.com
 
+
 🎨 I have art skills using Procreate, Photoshop, 
 Vectornator, Adobe illustrator, and use various
 Animation or 3D programs like Blender.
@@ -49,9 +50,9 @@ pursuing B.A. in Computer Science.
 
 [Android](https://play.google.com/store/apps/dev?id=8905289373249083173) 
 
-[Instagram Promotions Virtual Star Pet](https://www.instagram.com/virtualpetstar/?hl=en)
+[Instagram Virtual Star Pet](https://www.instagram.com/virtualpetstar/?hl=en)
 
-[Instagram Promotions ABC Pup Art](https://www.instagram.com/puppyvector/?hl=en)
+[Instagram ABC Pup](https://www.instagram.com/puppyvector/?hl=en)
 
 [Personal Instagram](https://www.instagram.com/koonchki/?hl=en)
 
