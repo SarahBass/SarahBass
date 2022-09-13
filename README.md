@@ -19,7 +19,7 @@ Javascript, some assembly languages, and python.
  for computer science. Graduated CSUF with a B.A.
 in English, have certificates in special education,
 multiple subjects, and single subject: English. Now
-pursuing B.A. in Computer Science. 
+pursuing B.S. in Computer Science. 
 
 # Upcomping Games
 
@@ -48,7 +48,7 @@ pursuing B.A. in Computer Science.
 
 [Fitbit Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 
-[Android](https://play.google.com/store/apps/dev?id=8905289373249083173) 
+[Android Google Play](https://play.google.com/store/apps/dev?id=8905289373249083173) 
 
 [Instagram Virtual Star Pet](https://www.instagram.com/virtualpetstar/?hl=en)
 
