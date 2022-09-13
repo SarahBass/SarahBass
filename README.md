@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Virtual%20Star%20Watch%20Icon.png" width="600" height="300">
+<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Virtual%20Star%20Watch%20Icon.png" width="300" height="150">
 
 
 - 👋 Hi, I’m @SarahBass
