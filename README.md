@@ -23,6 +23,16 @@ pursuing B.S. in Computer Science.
 
 # Upcomping Games
 
+## Virtual Star Watch
+
+<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="300" height="300">
+
+
+## Virtual Star Pet
+
+<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSPETIcon.png" width="300" height="300">
+
+
 ## ABC Halloween
 
 <img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Halloween.png" width="300" height="300">
