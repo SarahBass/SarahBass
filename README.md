@@ -12,7 +12,7 @@
 Vectornator, Adobe illustrator, and use various
 Animation or 3D programs like Blender.
 
-💻 I can program fluently in Kotlin, Java, C++, C,
+💻 I can program in Kotlin, Java, C++, C,
 Javascript, some assembly languages, and python. 
 
 🎓 Currently enrolled in undergraduate classes
