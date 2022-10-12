@@ -22,7 +22,7 @@ pursuing B.S. in Computer Science.
 
 # Upcomping Releases
 
-## Virtual Star Watch
+## [Virtual Star Watch](https://github.com/SarahBass/WearOS-Animated-Star-Watch)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="300" height="300">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
@@ -38,11 +38,11 @@ pursuing B.S. in Computer Science.
 
 ## ABC Pup
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20PUP.png" width="300" height="300">
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20PUP.png" width="300" height="300">](https://github.com/SarahBass/ABCPupAndroidApp)
 
 ## Sandwich Runner
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="300" height="300">](https://github.com/SarahBass/ABCPupAndroidApp)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="300" height="300">](https://github.com/SarahBass/SandwichRunner)
 
 ## AR Star
 
