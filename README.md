@@ -27,28 +27,28 @@ pursuing B.S. in Computer Science.
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="300" height="300">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
 
-## Virtual Star Pet
+## [Virtual Star Pet](https://github.com/SarahBass/Virtual-Star-Pet)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSPETIcon.png" width="300" height="300">](https://github.com/SarahBass/Virtual-Star-Pet)
 
 
-## ABC Halloween
+## [ABC Halloween](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Halloween.png" width="300" height="300">](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
 
-## ABC Pup
+## [ABC Pup](https://github.com/SarahBass/ABCPupAndroidApp)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20PUP.png" width="300" height="300">](https://github.com/SarahBass/ABCPupAndroidApp)
 
-## Sandwich Runner
+## [Sandwich Runner](https://github.com/SarahBass/SandwichRunner)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="300" height="300">](https://github.com/SarahBass/SandwichRunner)
 
-## AR Star
+## [AR Star](https://www.instagram.com/virtualpetstar/?hl=en) 
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="300" height="300">](https://www.instagram.com/virtualpetstar/?hl=en) 
 
-## Horoscope Watch
+## [Horoscope Watch](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="300" height="300">](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
