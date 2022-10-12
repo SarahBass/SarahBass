@@ -7,6 +7,8 @@
 - 📫 How to reach me: VirtualStarWatch@gmail.com
 
 
+
+
 🎓 Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
 in English, have certificates in special education,
