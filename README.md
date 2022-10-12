@@ -21,16 +21,16 @@ in English, have certificates in special education,
 multiple subjects, and single subject: English. Now
 pursuing B.S. in Computer Science. 
 
-# Upcomping Games
+# Upcomping Releases
 
 ## Virtual Star Watch
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="300" height="300">
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="300" height="300">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
 
 ## Virtual Star Pet
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSPETIcon.png" width="300" height="300">
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSPETIcon.png" width="300" height="300">](https://github.com/SarahBass/Virtual-Star-Pet)
 
 
 ## ABC Halloween
@@ -51,7 +51,7 @@ pursuing B.S. in Computer Science.
 
 ## Horoscope Watch
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="300" height="300">" 
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="300" height="300">](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
 
 # Follow us at:
