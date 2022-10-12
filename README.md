@@ -9,11 +9,10 @@
 
 
 
-🎓 Currently enrolled in undergraduate classes
- for computer science. Graduated CSUF with a B.A.
+🎓 I have an A.A. in Computer Science. I Graduated CSUF with a B.A.
 in English, have teaching certificates in
-multiple subjects, and single subject: English. Now
-pursuing B.S. in Computer Science. 
+multiple subjects and areas as well as childhood development certifications. I am currently
+pursuing a B.S. in Computer Science at CSU as a full time student. 
 
 💻 I can program in Kotlin, Java, C++, C,
 Javascript, Assembly, and Python. 
