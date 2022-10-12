@@ -7,18 +7,17 @@
 - 📫 How to reach me: VirtualStarWatch@gmail.com
 
 
-🎨 I have art skills using Photoshop, 
-Vectornator, Adobe Illustrator, and use various
-Animation or 3D programs like Blender.
-
-💻 I can program in Kotlin, Java, C++, C,
-Javascript, Assembly, and Python. 
-
 🎓 Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
 in English, have certificates in special education,
 multiple subjects, and single subject: English. Now
 pursuing B.S. in Computer Science. 
+
+🎨 I can use Photoshop, Vectornator, Adobe Illustrator, and use various
+Animation or 3D programs like Blender.
+
+💻 I can program in Kotlin, Java, C++, C,
+Javascript, Assembly, and Python. 
 
 # Upcomping Releases
 
