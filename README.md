@@ -11,7 +11,7 @@
 
 🎓 Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
-in English, have certificates in special education,
+in English, have teaching certificates in
 multiple subjects, and single subject: English. Now
 pursuing B.S. in Computer Science. 
 
