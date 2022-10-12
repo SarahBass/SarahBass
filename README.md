@@ -34,7 +34,7 @@ pursuing B.S. in Computer Science.
 
 ## ABC Halloween
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Halloween.png" width="300" height="300">
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Halloween.png" width="300" height="300">](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
 
 ## ABC Pup
 
@@ -42,11 +42,11 @@ pursuing B.S. in Computer Science.
 
 ## Sandwich Runner
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="300" height="300">
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="300" height="300">](https://github.com/SarahBass/ABCPupAndroidApp)
 
 ## AR Star
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="300" height="300">" 
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="300" height="300">](https://www.instagram.com/virtualpetstar/?hl=en) 
 
 ## Horoscope Watch
 
