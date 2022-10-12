@@ -3,17 +3,16 @@
 
 
 - 👋 Hi, I’m @SarahBass
-- 🌎 Located Orange County, CA 
-- 👀 I’m interested in game development and apps. 
+- 🌎 Located Orange County, CA  
 - 📫 How to reach me: VirtualStarWatch@gmail.com
 
 
-🎨 I have art skills using Procreate, Photoshop, 
-Vectornator, Adobe illustrator, and use various
+🎨 I have art skills using Photoshop, 
+Vectornator, Adobe Illustrator, and use various
 Animation or 3D programs like Blender.
 
 💻 I can program in Kotlin, Java, C++, C,
-Javascript, some assembly languages, and python. 
+Javascript, Assembly, and Python. 
 
 🎓 Currently enrolled in undergraduate classes
  for computer science. Graduated CSUF with a B.A.
