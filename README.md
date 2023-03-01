@@ -27,9 +27,9 @@ Animation or 3D programs like Blender.
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="200" height="200">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
 
-## [Virtual Star Pet](https://github.com/SarahBass/Virtual-Star-Pet)
+## [Virtual Gotcha](https://github.com/SarahBass/Virtual-Star-Pet)
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSPETIcon.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Star-Pet)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/FF135171-2118-4D53-AC40-F0B3C508516B.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Star-Pet)
 
 
 ## [ABC Halloween](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
