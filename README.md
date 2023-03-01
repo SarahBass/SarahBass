@@ -27,9 +27,13 @@ Animation or 3D programs like Blender.
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="200" height="200">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
 
-## [Virtual Gotcha](https://github.com/SarahBass/Virtual-Star-Pet)
+## [AR Star]()
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/FF135171-2118-4D53-AC40-F0B3C508516B.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Star-Pet)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="200" height="200">](https://www.instagram.com/virtualpetstar/?hl=en) 
+
+## [Virtual Gotcha]()
+
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/FF135171-2118-4D53-AC40-F0B3C508516B.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Pet-APP)
 
 
 ## [ABC Halloween](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
@@ -44,9 +48,6 @@ Animation or 3D programs like Blender.
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="200" height="200">](https://github.com/SarahBass/SandwichRunner)
 
-## [AR Star](https://www.instagram.com/virtualpetstar/?hl=en) 
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="200" height="200">](https://www.instagram.com/virtualpetstar/?hl=en) 
 
 ## [Horoscope Watch](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
