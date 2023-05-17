@@ -22,16 +22,16 @@ Animation or 3D programs like Blender.
 
 # Popular Github Repositories 
 
-## [Virtual Star Watch](https://github.com/SarahBass/WearOS-Animated-Star-Watch)
+## [Virtual Star Watch](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="200" height="200">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="200" height="200">](https://github.com/SarahBass/WearOS-Animated-Star-Watch)
 
 
 ## [Horoscope Watch](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="200" height="200">](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
-## [Fitbit Tamagotchi](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
+## [Fitbit Tamagotchi](https://gallery.fitbit.com/details/53f8ef1e-9c56-4699-8972-6f788f1710d1)
 
 [<img src="https://github.com/SarahBass/Virtual-Pet-APP/raw/main/promo/Versa3_336_pixel_2%209.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Pet-APP)
 
