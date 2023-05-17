@@ -14,47 +14,51 @@ in English, have teaching certificates in
 multiple subjects and areas as well as childhood development certifications. I am currently
 pursuing a B.S. in Computer Science at CSU as a full time student. 
 
-💻 I can program in Kotlin, Java, C++, C,
+💻 I can program in Kotlin, Java, C++, C, MonkeyC,
 Javascript, Assembly, and Python. 
 
 🎨 I can use Photoshop, Vectornator, Adobe Illustrator, and use various
 Animation or 3D programs like Blender.
 
-# Upcomping Releases
+# Popular Github Repositories 
 
 ## [Virtual Star Watch](https://github.com/SarahBass/WearOS-Animated-Star-Watch)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/VSWatchIcon.png" width="200" height="200">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
 
 
-## [AR Star]()
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/AR%20Star.png" width="200" height="200">](https://www.instagram.com/virtualpetstar/?hl=en) 
-
-## [Virtual Gotcha]()
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/FF135171-2118-4D53-AC40-F0B3C508516B.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Pet-APP)
-
-
-## [ABC Halloween](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20Halloween.png" width="200" height="200">](https://github.com/SarahBass/ABC-Halloween/blob/main/README.md)
-
-## [ABC Pup](https://github.com/SarahBass/ABCPupAndroidApp)
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/ABC%20PUP.png" width="200" height="200">](https://github.com/SarahBass/ABCPupAndroidApp)
-
-## [Sandwich Runner](https://github.com/SarahBass/SandwichRunner)
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/SandwichRunner.png" width="200" height="200">](https://github.com/SarahBass/SandwichRunner)
-
-
 ## [Horoscope Watch](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
 [<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="200" height="200">](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
+## [Fitbit Tamagotchi](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
+
+[<img src="https://github.com/SarahBass/Virtual-Pet-APP/raw/main/promo/Versa3_336_pixel_2%209.png" width="200" height="200">](https://github.com/SarahBass/Virtual-Pet-APP)
+
+## [Fitbit Animated Shiba](https://gallery.fitbit.com/details/6e255398-2919-4268-9ee5-a7674c3e4637)
+
+[<img src="https://github.com/SarahBass/VirtualPetShiba/raw/main/promo/Untitled_49%206.png" width="200" height="200">](https://github.com/SarahBass/VirtualPetShiba)
+
+## [Fitbit Virtual Star](https://github.com/SarahBass/Season-Star-Pet-Fitbit-Clockface)
+
+[<img src="https://github.com/SarahBass/StarWatchV3/raw/main/Versa3copy%208.png" width="200" height="200">](https://github.com/SarahBass/Season-Star-Pet-Fitbit-Clockface)
+
+## [Garmin Virtual Blob](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
+
+[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/03cb70fd-ce8f-410a-836e-94ad4648c5d8/icon/b0965b38-68fd-44e4-bea5-61debe880f50" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+
+## [Garmin Virtual Monkey](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
+
+[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/5a0ab9df-301b-4d21-bfa8-1f0aaa8ce2bd/icon/3734c5bb-dadd-4ad7-b14c-6b32dfa37176" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+
+## [Garmin Data Heavy Clock](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
+
+[<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+
 
 # Follow us at:
+
+[Garmin Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 
 [Fitbit Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 
