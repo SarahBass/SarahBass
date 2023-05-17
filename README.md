@@ -1,5 +1,10 @@
 
-<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Virtual%20Star%20Watch%20Icon.png" width="200" height="100">
+[<img src="https://sarahbass.github.io/images/facebook2x.png" width="50" height="50">](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
+[<img src="https://sarahbass.github.io/images/twitter2x.png" width="50" height="50">](https://github.com/SarahBass?tab=repositories)
+[<img src="https://sarahbass.github.io/images/instagram2x.png" width="50" height="50">](https://www.instagram.com/virtualpetstar/)
+[<img src="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
+[<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
+[<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 
 
 - 👋 Hi, I’m @SarahBass
