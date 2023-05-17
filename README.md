@@ -61,19 +61,5 @@ Animation or 3D programs like Blender.
 [<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
 
 
-# Follow us at:
-
-[Garmin Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
-
-[Fitbit Watches](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
-
-[Android Google Play](https://play.google.com/store/apps/dev?id=8905289373249083173) 
-
-[Instagram Virtual Star Pet](https://www.instagram.com/virtualpetstar/?hl=en)
-
-[Instagram ABC Pup](https://www.instagram.com/puppyvector/?hl=en)
-
-[Personal Instagram](https://www.instagram.com/koonchki/?hl=en)
-
 
 
