@@ -1,3 +1,7 @@
+![Alt text](https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Untitled_72.png)
+
+![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
+
 
 [<img src="https://sarahbass.github.io/images/facebook2x.png" width="50" height="50">](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 [<img src="https://sarahbass.github.io/images/twitter2x.png" width="50" height="50">](https://github.com/SarahBass?tab=repositories)
@@ -6,9 +10,6 @@
 [<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
 [<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 
-
-
-![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
 
 # Popular Github Repositories 
 
