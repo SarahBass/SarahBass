@@ -58,7 +58,7 @@ Animation or 3D programs like Blender.
 
 ## [Garmin Data Heavy Clock](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
-[<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+[<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/DataHeavyGarmin/blob/main/README.md)
 
 
 
