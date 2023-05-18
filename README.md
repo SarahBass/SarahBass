@@ -54,7 +54,7 @@ Animation or 3D programs like Blender.
 
 ## [Garmin Virtual Monkey](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
-[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/5a0ab9df-301b-4d21-bfa8-1f0aaa8ce2bd/icon/3734c5bb-dadd-4ad7-b14c-6b32dfa37176" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/5a0ab9df-301b-4d21-bfa8-1f0aaa8ce2bd/icon/3734c5bb-dadd-4ad7-b14c-6b32dfa37176" width="200" height="200">](https://github.com/SarahBass/VirtualPetMonkey)
 
 ## [Garmin Data Heavy Clock](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
