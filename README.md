@@ -9,7 +9,7 @@
 
 [<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 [<img src="https://github.com/SarahBass/SarahBass/assets/69780815/de3723db-424d-4b15-a0bd-18f3672b9380" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
-[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/3d5713a1-5511-4ab3-9ecd-2ee9e66bbcd8" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/3d5713a1-5511-4ab3-9ecd-2ee9e66bbcd8" width="50" height="50">](https://www.youtube.com/@sarahbass30/videos)
 [<img src="https://github.com/SarahBass/SarahBass/assets/69780815/8cff83d3-56a6-4197-a35b-464015d57af4" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 [<img src="https://github.com/SarahBass/SarahBass/assets/69780815/d99ff4bf-ecda-41f7-ac30-a5d860f8d8a9" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 
