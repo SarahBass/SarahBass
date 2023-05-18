@@ -50,7 +50,7 @@ Animation or 3D programs like Blender.
 
 ## [Garmin Virtual Blob](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
-[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/03cb70fd-ce8f-410a-836e-94ad4648c5d8/icon/b0965b38-68fd-44e4-bea5-61debe880f50" width="200" height="200">](https://github.com/SarahBass/VirtualStarPetGarmin)
+[<img src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/03cb70fd-ce8f-410a-836e-94ad4648c5d8/icon/b0965b38-68fd-44e4-bea5-61debe880f50" width="200" height="200">](https://github.com/SarahBass/Virtual-Garmin-Pet)
 
 ## [Garmin Virtual Monkey](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
