@@ -1,14 +1,21 @@
-![Alt text](https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Untitled_72.png)
 
-![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
-
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/8c10c7c2-289b-4fb0-a1c5-028f4bd44d4e" width="275" height="100">](https://www.linkedin.com/in/sarah-bass-a22465268/)
 
 [<img src="https://sarahbass.github.io/images/facebook2x.png" width="50" height="50">](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 [<img src="https://sarahbass.github.io/images/twitter2x.png" width="50" height="50">](https://github.com/SarahBass?tab=repositories)
 [<img src="https://sarahbass.github.io/images/instagram2x.png" width="50" height="50">](https://www.instagram.com/virtualpetstar/)
 [<img src="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 [<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
+
 [<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/de3723db-424d-4b15-a0bd-18f3672b9380" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/3d5713a1-5511-4ab3-9ecd-2ee9e66bbcd8" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/8cff83d3-56a6-4197-a35b-464015d57af4" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+[<img src="https://github.com/SarahBass/SarahBass/assets/69780815/d99ff4bf-ecda-41f7-ac30-a5d860f8d8a9" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
+
+![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
+
+
 
 
 # Popular Github Repositories 
@@ -45,6 +52,7 @@
 ## [Garmin Data Heavy Clock](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 
 [<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/DataHeavyGarmin/blob/main/README.md)
+
 
 
 
