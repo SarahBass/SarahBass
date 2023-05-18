@@ -7,23 +7,8 @@
 [<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 
 
-- 👋 Hi, I’m @SarahBass
-- 🌎 Located Orange County, CA  
-- 📫 How to reach me: VirtualStarWatch@gmail.com
 
-
-
-
-🎓 I have an A.A. in Computer Science. I Graduated CSUF with a B.A.
-in English, have teaching certificates in
-multiple subjects and areas as well as childhood development certifications. I am currently
-pursuing a B.S. in Computer Science at CSU as a full time student. 
-
-💻 I can program in Kotlin, Java, C++, C, MonkeyC,
-Javascript, Assembly, and Python. 
-
-🎨 I can use Photoshop, Vectornator, Adobe Illustrator, and use various
-Animation or 3D programs like Blender.
+![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
 
 # Popular Github Repositories 
 
