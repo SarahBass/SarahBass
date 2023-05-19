@@ -8,20 +8,41 @@
 [<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
 
 [<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
-[<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/wearosicon.png" width="50" height="50">](https://play.google.com/store/apps/details?id=com.academy.testwatch3)
-[<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/youtube.png" width="50" height="50">](https://www.youtube.com/@sarahbass30/videos)
-[<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/unityicon.png" width="50" height="50">](https://learn.unity.com/u/sarahbass?tab=profile)
-[<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">](https://appstoreconnect.apple.com/apps)
 
-![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png )
 
+
+<a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/wearosicon.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGWearOS.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGWearOS.png" width="50" height="50" >
+</picture>
+ </a>
+<a href="https://www.youtube.com/@sarahbass30/videos">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/youtube.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGYoutube.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGYoutube.png" width="50" height="50" >
+</picture>
+ </a>
+ <a href="https://learn.unity.com/u/sarahbass?tab=profile">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/unityicon.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGUnity.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGUnity.png" width="50" height="50" >
+</picture>
+ </a>
  <a href="https://appstoreconnect.apple.com/apps">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50">
-  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMApple.png" width="50" height="50" >
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50" >
 </picture>
  </a>
+
+![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png )
+
+
 
 # Popular Github Repositories 
 
