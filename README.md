@@ -4,10 +4,26 @@
 [<img src="https://sarahbass.github.io/images/facebook2x.png" width="50" height="50">](https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd)
 [<img src="https://sarahbass.github.io/images/twitter2x.png" width="50" height="50">](https://github.com/SarahBass?tab=repositories)
 [<img src="https://sarahbass.github.io/images/instagram2x.png" width="50" height="50">](https://www.instagram.com/virtualpetstar/)
-[<img src="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
-[<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
 
 
+
+
+<a href="https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGarmin.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGarmin.png" width="50" height="50" >
+</picture>
+ </a>
+<a href="https://arcade.thumby.us/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGtiny.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGtiny.png" width="50" height="50" >
+</picture>
+ </a>
+
+</br>
 
 <a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
 <picture>
