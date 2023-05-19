@@ -13,14 +13,15 @@
 [<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/unityicon.png" width="50" height="50">](https://learn.unity.com/u/sarahbass?tab=profile)
 [<img src="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">](https://appstoreconnect.apple.com/apps)
 
-![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png)
+![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png )
 
+ <a href="https://appstoreconnect.apple.com/apps">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50">
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMApple.png" width="50" height="50" >
 </picture>
-
+ </a>
 
 # Popular Github Repositories 
 
