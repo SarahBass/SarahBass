@@ -7,10 +7,15 @@
 [<img src="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">](https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps)
 [<img src="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">](https://arcade.thumby.us/)
 
-[<img src="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">](https://play.google.com/store/apps/dev?id=8905289373249083173)
 
 
-
+<a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMGoogle.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMGoogle.png" width="50" height="50" >
+</picture>
+ </a>
 <a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/wearosicon.png" width="50" height="50">
