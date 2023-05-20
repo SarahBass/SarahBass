@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass/assets/69780815/8c10c7c2-289b-4fb0-a1c5-028f4bd44d4e" width="275" height="100">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGSignature.png" width="275" height="100">
-  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/LGSignature.png" width="275" height="100" >
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/SarahBass/assets/69780815/8c10c7c2-289b-4fb0-a1c5-028f4bd44d4e" width="275" height="100" >
 </picture>
  </a>
 
