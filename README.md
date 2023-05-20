@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/sarah-bass-a22465268/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass/assets/69780815/8c10c7c2-289b-4fb0-a1c5-028f4bd44d4e" width="275" height="100">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMSignature.png" width="275" height="100">
-  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMSignature.png" width="275" height="100" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGSignature.png" width="275" height="100">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGSignature.png" width="275" height="100" >
 </picture>
  </a>
 
@@ -52,11 +52,11 @@
 
 </br>
 
-<a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
+<a href="https://play.google.com/store/apps/dev?id=8905289373249083173">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMGoogle.png" width="50" height="50">
-  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/DMGoogle.png" width="50" height="50" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGoogle.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGoogle.png" width="50" height="50" >
 </picture>
  </a>
 <a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
