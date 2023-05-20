@@ -128,6 +128,12 @@
 [<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/DataHeavyGarmin/blob/main/README.md)
 
 
+#  Current Projects - IN PROGRESS 
+
+## [Virtual Gotcha](https://github.com/SarahBass/VirtualGotcha)
+
+[<img src="https://raw.githubusercontent.com/SarahBass/VirtualGotcha/main/VirtualPetSteps/Watch%20Virtual%20Pet/Assets.xcassets/AppIcon.appiconset/Untitled%20112.png" width="200" height="200">](https://github.com/SarahBass/VirtualGotcha)
+
 
 
 
