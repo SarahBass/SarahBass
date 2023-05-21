@@ -134,6 +134,13 @@
 
 [<img src="https://raw.githubusercontent.com/SarahBass/VirtualGotcha/main/VirtualPetSteps/Watch%20Virtual%20Pet/Assets.xcassets/AppIcon.appiconset/Untitled%20112.png" width="200" height="200">](https://github.com/SarahBass/VirtualGotcha)
 
+#  Github Community Contributions 
 
+## [Tiny Circuit Arcade](https://github.com/SarahBass/Thumby-Virtual-Pet)
 
+[<img src="https://m.media-amazon.com/images/I/710fHPZ7pDL._AC_SX679_.jpg" width="200" height="200">](https://github.com/TinyCircuits/TinyCircuits-Thumby-Games)
+
+## [Fitbit OSSAPPS](https://github.com/Fitbit/ossapps)
+
+[<img src="https://blog.ourcrowd.com/wp-content/uploads/2015/11/fitbit-logo.jpg" width="200" height="200">](https://github.com/Fitbit/ossapps)
 
