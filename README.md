@@ -136,7 +136,7 @@
 
 #  Github Community Contributions 
 
-## [Tiny Circuit Arcade](https://github.com/SarahBass/Thumby-Virtual-Pet)
+## [Tiny Circuit Arcade](https://github.com/TinyCircuits/TinyCircuits-Thumby-Games/tree/master/VirtualPet)
 
 [<img src="https://m.media-amazon.com/images/I/710fHPZ7pDL._AC_SX679_.jpg" width="200" height="200">](https://github.com/TinyCircuits/TinyCircuits-Thumby-Games)
 
