@@ -12,8 +12,6 @@
 </br>
 
 
-
-
 <a href="https://gallery.fitbit.com/developer/850971bc-7265-471f-81f9-608d179f4ddd">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/facebook2x.png" width="50" height="50">
@@ -21,6 +19,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGFitbit.png" width="50" height="50" >
 </picture>
  </a>
+ 
 <a href="https://github.com/SarahBass?tab=repositories">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/twitter2x.png" width="50" height="50">
@@ -28,6 +27,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGgithub.png" width="50" height="50" >
 </picture>
  </a>
+ 
 <a href="https://www.instagram.com/virtualpetstar/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/instagram2x.png" width="50" height="50">
@@ -35,6 +35,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGInsta.png" width="50" height="50" >
 </picture>
  </a>
+ 
 <a href="https://apps.garmin.com/en-US/developer/f94e72b2-1bb1-4ad4-80ef-a1d38cd49c2c/apps">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/garminicon.png" width="50" height="50">
@@ -42,6 +43,9 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGarmin.png" width="50" height="50" >
 </picture>
  </a>
+ 
+ </br>
+ 
 <a href="https://arcade.thumby.us/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/tinycircuitslogo.png" width="50" height="50">
@@ -50,8 +54,6 @@
 </picture>
  </a>
 
-</br>
-
 <a href="https://play.google.com/store/apps/dev?id=8905289373249083173">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">
@@ -59,6 +61,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGoogle.png" width="50" height="50" >
 </picture>
  </a>
+ 
 <a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/wearosicon.png" width="50" height="50">
@@ -66,6 +69,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGWearOS.png" width="50" height="50" >
 </picture>
  </a>
+ 
 <a href="https://www.youtube.com/@sarahbass30/videos">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/youtube.png" width="50" height="50">
@@ -73,6 +77,9 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGYoutube.png" width="50" height="50" >
 </picture>
  </a>
+ 
+  </br>
+ 
  <a href="https://learn.unity.com/u/sarahbass?tab=profile">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/unityicon.png" width="50" height="50">
@@ -80,6 +87,7 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGUnity.png" width="50" height="50" >
 </picture>
  </a>
+ 
  <a href="https://appstoreconnect.apple.com/apps">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">
@@ -87,6 +95,26 @@
   <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50" >
 </picture>
  </a>
+ 
+  <a href="https://amazfitwatchfaces.com/ucp/748292">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/WAmazfit.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGAmazfit.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGAmazfit.png" width="50" height="50" >
+</picture>
+ </a>
+ 
+ 
+  <a href="https://appstoreconnect.apple.com/apps">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/appleicon.png" width="50" height="50">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50">
+  <img alt="dark mode and light mode icons" src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGApple.png" width="50" height="50" >
+</picture>
+ </a>
+ 
+ 
+  </br>
 
 ![Alt text](https://github.com/SarahBass/VirtualPetMonkey/blob/main/animatedmonkeygif.png )
 
