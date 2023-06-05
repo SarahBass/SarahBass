@@ -127,6 +127,12 @@
 
 [<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/DataHeavyGarmin/blob/main/README.md)
 
+## [Amazfit GTR Mini Clock](https://amazfitwatchfaces.com/ucp/748292)
+
+[<img src="https://github.com/SarahBass/Zeppo-Pig-Watch/blob/main/zeppoexample.png" width="200" height="200">](https://github.com/SarahBass/Zeppo-Pig-Watch)
+
+
+
 
 #  Current Projects - IN PROGRESS 
 
