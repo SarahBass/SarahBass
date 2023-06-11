@@ -161,7 +161,7 @@
 
 ## [Facer Apple Watches](https://www.facer.io/u/SarahBass)
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/IMG_3084.jpg" width="200" height="200">](https://www.facer.io/u/SarahBass)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Screenshot%202023-06-10%20at%207.51.23%20PM.png" width="200" height="200">](https://www.facer.io/u/SarahBass)
 
 
 #  Current Projects - IN PROGRESS 
