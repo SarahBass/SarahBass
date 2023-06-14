@@ -129,7 +129,13 @@
 
 ## [Horoscope Watch](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
 
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="200" height="200">](https://github.com/SarahBass/HoroscopeWatchAndroid/blob/main/README.md)
+[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/HoroscopeWatch.png" width="200" height="200">](https://play.google.com/store/apps/details?id=com.virtualstarstudios.horoscopewatch)
+
+
+
+## [Famous Prague Clock](https://github.com/SarahBass/Prague-clock)
+
+[<img src="https://github.com/SarahBass/Prague-clock/blob/main/app/drawable/Screenshot_20230613_162329.png" width="200" height="200">](https://github.com/SarahBass/Prague-clock)
 
 ## [Fitbit Tamagotchi](https://gallery.fitbit.com/details/53f8ef1e-9c56-4699-8972-6f788f1710d1)
 
