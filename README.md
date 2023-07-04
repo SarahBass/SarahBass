@@ -161,14 +161,6 @@
 
 [<img src="https://sarahbass.github.io/images/Untitled_95.png" width="200" height="200">](https://github.com/SarahBass/DataHeavyGarmin/blob/main/README.md)
 
-## [Amazfit GTR Mini Clock](https://amazfitwatchfaces.com/ucp/748292)
-
-[<img src="https://github.com/SarahBass/Zeppo-Pig-Watch/blob/main/zeppoexample.png" width="200" height="200">](https://github.com/SarahBass/Zeppo-Pig-Watch)
-
-## [Facer Apple Watches](https://www.facer.io/u/SarahBass)
-
-[<img src="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/Screenshot%202023-06-10%20at%207.48.58%20PM.png" width="200" height="200">](https://www.facer.io/u/SarahBass)
-
 
 #  Current Projects - IN PROGRESS 
 
