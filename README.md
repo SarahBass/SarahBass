@@ -62,7 +62,7 @@
 </picture>
  </a>
  
-<a href="https://play.google.com/store/apps/details?id=com.academy.testwatch3">
+<a href="https://apps.repebble.com/apps/dev/sarah-bass_b7ce574c8f2e56ffd94591f6">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/wearosicon.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGWearOS.png" width="50" height="50">
