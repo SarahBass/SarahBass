@@ -70,7 +70,7 @@
 </picture>
  </a>
  
-<a href="https://www.youtube.com/@sarahbass30/videos">
+<a href="https://www.youtube.com/@starryClocks">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SarahBass/SarahBass.github.io/blob/main/images/youtube.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGYoutube.png" width="50" height="50">
