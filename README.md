@@ -28,7 +28,7 @@
 </picture>
  </a>
  
-<a href="https://www.instagram.com/virtualpetstar/">
+<a href="https://www.tumblr.com/missagonyy">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/instagram2x.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGInsta.png" width="50" height="50">
