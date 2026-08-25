@@ -54,7 +54,7 @@
 </picture>
  </a>
 
-<a href="https://play.google.com/store/apps/dev?id=8905289373249083173">
+<a href="https://sarahbass.github.io/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sarahbass.github.io/images/googleicon.png" width="50" height="50">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/SarahBass/Android-PlayStore-Icons/blob/main/GGGoogle.png" width="50" height="50">
